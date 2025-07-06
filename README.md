@@ -1,4 +1,4 @@
-# resumeFilter 4 job
+# resumeFilter4job
 AI for Improving The Selection Time Processs using IBM Granite model
 Traditioinal Hiring process can cost a lot of time, resourses, and often times the selection results are inconsistent and biased. So to solve the problem, a trained model is introduced as the solution, which can help hiring company get the best result in efficient way.
 
